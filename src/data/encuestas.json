@@ -1,0 +1,131 @@
+[
+      {
+        "id": 1,
+        "titulo": "Encuesta 1",
+        "descripcion": "Esta es la primera encuesta.",
+        "preguntas": [
+          {
+            "id": 1,
+            "pregunta": "¿Cuál es tu color favorito?",
+            "opciones": [
+              {
+                "id": 1,
+                "texto": "Rojo"
+              },
+              {
+                "id": 2,
+                "texto": "Azul"
+              },
+              {
+                "id": 3,
+                "texto": "Verde"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "pregunta": "¿Cuál es tu película favorita?",
+            "opciones": [
+              {
+                "id": 1,
+                "texto": "Star Wars"
+              },
+              {
+                "id": 2,
+                "texto": "Harry Potter"
+              },
+              {
+                "id": 3,
+                "texto": "El Señor de los Anillos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Encuesta 2",
+        "descripcion": "Esta es la segunda encuesta.",
+        "preguntas": [
+          {
+            "id": 1,
+            "pregunta": "¿Cuál es tu deporte favorito?",
+            "opciones": [
+              {
+                "id": 1,
+                "texto": "Fútbol"
+              },
+              {
+                "id": 2,
+                "texto": "Baloncesto"
+              },
+              {
+                "id": 3,
+                "texto": "Tenis"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "pregunta": "¿Qué tipo de música prefieres?",
+            "opciones": [
+              {
+                "id": 1,
+                "texto": "Rock"
+              },
+              {
+                "id": 2,
+                "texto": "Pop"
+              },
+              {
+                "id": 3,
+                "texto": "Electrónica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Encuesta 3",
+        "descripcion": "Esta es la tercera encuesta.",
+        "preguntas": [
+          {
+            "id": 1,
+            "pregunta": "¿Cuál es tu comida favorita?",
+            "opciones": [
+              {
+                "id": 1,
+                "texto": "Pizza"
+              },
+              {
+                "id": 2,
+                "texto": "Sushi"
+              },
+              {
+                "id": 3,
+                "texto": "Hamburguesa"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "pregunta": "¿Cuál es tu animal favorito?",
+            "opciones": [
+              {
+                "id": 1,
+                "texto": "Perro"
+              },
+              {
+                "id": 2,
+                "texto": "Gato"
+              },
+              {
+                "id": 3,
+                "texto": "Pájaros"
+              }
+            ]
+          }
+        ]
+      }
+]
